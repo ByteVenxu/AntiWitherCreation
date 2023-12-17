@@ -1,0 +1,10 @@
+name: AntiWitherCreation
+version: '${project.version}'
+author: noahtrx
+website: www.noahtrx.de
+main: de.noahtrx.antiwithercreation.AntiWitherCreation
+
+commands:
+  antiwither:
+    aliases:
+      - antiwithercreation

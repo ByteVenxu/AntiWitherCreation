@@ -1,0 +1,19 @@
+# Plugin was coded by @noahtrx | www.noahtrx.de/support
+# \n for new line in messages.
+messages:
+  info: "&8[&cAntiWitherCreation&8] &7Plugin was coded by\n&8[&cAntiWitherCreation&8] &4noahtrx\n&8[&cAntiWitherCreation&8] &7Discord: &cdiscord.gg/VeRv6rayR2"
+  enable: "&8[&cAntiWitherCreation&8] &7You successfully &aenabled &7the wither creation!"
+  disable: "&8[&cAntiWitherCreation&8] &7You successfully &cdisabled &7the wither creation!"
+
+titles:
+  main:
+    title: "&8» &cAntiWitherCreation &8«"
+    subtitle: "&ccoded by &4noahtrx"
+
+
+
+
+
+
+
+
